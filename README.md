@@ -1,3 +1,14 @@
-# Aplicación de venta de viajes utilizando Javascript.
+# 🧳 Aplicación de Venta de Viajes
 
-Muestra información sobre diferentes ciudades turísticas y sus precios
+Una aplicación desarrollada en **JavaScript** que muestra información sobre diferentes ciudades turísticas y sus precios.
+
+## ✨ Características
+
+- Visualización de destinos turísticos
+- Precios actualizados
+- Interfaz simple e intuitiva
+
+## 🌍 Tecnologías utilizadas
+
+- JavaScript
+- HTML & CSS
